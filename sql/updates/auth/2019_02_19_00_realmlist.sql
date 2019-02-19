@@ -1,0 +1,5 @@
+ALTER TABLE `realmlist`
+   ADD COLUMN `delay` INT(10) UNSIGNED DEFAULT '0' NOT NULL AFTER `online`;
+
+ALTER TABLE `realmlist`
+   ADD COLUMN `queued` INT(10) UNSIGNED DEFAULT '0' NOT NULL AFTER `delay`;

@@ -32,5 +32,4 @@
 *.app
 
 # Temp ignores
-sql/*
-db/*
+sql/*/world/*
