@@ -1,0 +1,1 @@
+DELETE FROM `character_pet` WHERE `entry` = 26125;

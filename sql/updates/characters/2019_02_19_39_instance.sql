@@ -1,0 +1,1 @@
+DELETE FROM `instance` WHERE `difficulty`=8;

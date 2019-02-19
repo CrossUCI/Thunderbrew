@@ -1,0 +1,1 @@
+ALTER TABLE `character_aura` ADD `castItemLevel` INT(11) NOT NULL DEFAULT '-1' AFTER `remaincharges`;

@@ -1,0 +1,1 @@
+alter table `account_battle_pet` drop column `maxHealth`, drop column `power`, drop column `speed`;

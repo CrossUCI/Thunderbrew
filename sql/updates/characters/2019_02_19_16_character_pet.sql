@@ -1,0 +1,1 @@
+DELETE FROM `character_pet` WHERE `PetType` = 1 AND `slot` = 100;
